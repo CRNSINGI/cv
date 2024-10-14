@@ -2,4 +2,4 @@
 
 ## First steps into software world
 
-Had to update my first project into coding back in 2021 :) 
+Had to update my first project back in 2021 :) 
